@@ -33,7 +33,6 @@ public class SafeUrlClient : IDisposable
     {
         _expander = expander ?? throw new ArgumentNullException(nameof(expander));
         _checker = checker ?? throw new ArgumentNullException(nameof(checker));
-        //Mock change
     }
 
     /// <summary>
