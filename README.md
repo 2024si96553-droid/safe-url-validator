@@ -4,7 +4,7 @@ SafeUrl is a lightweight tool/library that checks whether a given URL is safe by
 [brief explanation of what your project actually does].
 
 ## Features
-- Validates URLs for safety
+- Validates URLs for safety 
 - Simple CLI / API usage
 - Lightweight and fast
 
