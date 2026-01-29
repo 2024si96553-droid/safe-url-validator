@@ -1,7 +1,7 @@
 # SafeUrl
 
 SafeUrl is a lightweight tool/library that checks whether a given URL is safe by
-[brief explanation of what your project actually does].
+[brief explanation of what your project actually does]. Mock phrase for demonstration purposes.
 
 ## Features
 - Validates URLs for safety 
