@@ -72,6 +72,7 @@ while (true)
     if (string.IsNullOrWhiteSpace(input) || input.Equals("exit", StringComparison.OrdinalIgnoreCase))
     {
         Console.WriteLine("Goodbye!");
+        Console.WriteLine("Have a safe surf out there!");
         break;
     }
 
