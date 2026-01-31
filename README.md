@@ -2,13 +2,12 @@
 
 SafeUrl Validator is a lightweight .NET library and demo console app that expands and analyzes URLs to determine whether they appear safe. It expands shortened links (when possible) and applies a set of heuristic safety rules (HTTPS presence, suspicious TLDs/domains, URL length, redirect chains, etc.) to produce a structured safety report.
 
-This README replaces the original generic template (Python/Node/Java) with accurate, actionable documentation for the C#/.NET implementation in this repository.
 
 Status
 - Language: C#
 - Target Framework: .NET 8.0 (repo contains net8.0 artifacts)
 - Components: library (src/SafeUrl), demo console app (samples/SafeUrl.Demo), tests (tests/SafeUrl.Tests)
-- License: MIT — see LICENSE
+- License: MIT 
 
 Features
 - Expands URLs (detects redirect chains and final destination)
@@ -171,7 +170,7 @@ Roadmap / suggestions
 - Publish NuGet package and optional dotnet tool.
 
 License
-This project is licensed under the MIT License — see LICENSE.
+This project is licensed under the MIT License.
 
 Contact / Maintainers
 Open issues or PRs on the repository: https://github.com/2024si96553-droid/safe-url-validator
